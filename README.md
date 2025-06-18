@@ -1,5 +1,5 @@
 # MaxDevelopment
-HTML page showing Javascript tecniques
+My personal HTML webpage where I showcase a few Javascript tecniques I have learned.
 
 
 
